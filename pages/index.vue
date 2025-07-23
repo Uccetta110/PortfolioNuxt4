@@ -9,7 +9,7 @@
     </div>
     <div class="content-center p-5">
       <h1 class="font-bold text-6xl mb-5">Federico Agliati</h1>
-      <a href="https://github.com/Uccetta110" target="_blank">
+      <a href="https://github.com/Uccetta110" target="_blank" class="link">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
           alt="GitHub icon"
@@ -17,7 +17,7 @@
         />
         Uccetta110
       </a>
-      <a id="link" href="https://instagram.com/agliagliati" target="_blank">
+      <a id="link" href="https://instagram.com/agliagliati" target="_blank" class="link">
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
           alt="Instagram icon"
