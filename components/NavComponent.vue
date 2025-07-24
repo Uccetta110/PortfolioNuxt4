@@ -3,8 +3,7 @@
     <header class="shadow-smb bg-[#eef4ed]">
       <nav class="container mx-auto p-4 flex justify-between content-center">
         <h1 class="font-bold">Portfolio</h1>
-
-        <ul class="flex gap-4">
+        <ul class="flex gap-4 content-center justify-between">
           <li>
             <NuxtLink to="/" class="btn">About</NuxtLink>
           </li>

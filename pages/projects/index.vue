@@ -12,7 +12,7 @@
       <a href="https://github.com/Uccetta110" target="_blank">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-          alt="GitHub icon"
+          alt="GitHub icon" 
           style="width: 30px; height: auto; margin-right: 8px"
         />
         Uccetta110

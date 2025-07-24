@@ -9,16 +9,19 @@ body {
 
 @layer components {
   .btn {
-    @apply bg-[#011638] text-white px-3 py-2 rounded-md text-sm shadow-md;
+    @apply bg-[#011638] text-white px-3 py-2 rounded-xl text-sm shadow-md self-center;
     transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  li {
+    @apply content-center justify-between;
   }
 
   .my-gradient {
     background-image: linear-gradient(
       to bottom,
       #bce784 0%,
-      #348aa7 50%,
-      #525174 70%
+      #348aa7 70%
     );
   }
 
