@@ -9,7 +9,7 @@ body {
 
 @layer components {
   .btn {
-    @apply bg-[#011638] text-white px-4 py-2 rounded-xl text-sm shadow-md;
+    @apply bg-[#011638] text-white px-4 py-2 rounded-xl text-base shadow-md;
     transition: all 0.3s ease-in-out;
   }
   
