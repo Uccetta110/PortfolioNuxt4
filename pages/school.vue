@@ -1,6 +1,6 @@
 <template>
-  <div class="container p-4 card w-auto school justify-between">
-    <div class="content-center p-5 flex items-center justify-end">
+  <div class=" flex-col gap-5">
+    <div class="content-center p-5 flex w-[100%] items-center justify-end">
       <h1 class="p5 text-right text-4xl">Paleocapa Esperia</h1>
       <NuxtImg
         src="/assets/images/il-museo-dellindustria-trova-casataglio-del-nastro-a-giugno-allesperia_01a5219c-c206-11e5-9dd2-d7a5b91d6d64_700_455_big_gallery_linked_i.jpg"

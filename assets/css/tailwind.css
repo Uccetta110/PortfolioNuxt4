@@ -24,22 +24,6 @@ body {
     @apply p-3 rounded-lg bg-white shadow-md h-full hover:shadow-lg transition-shadow;
   }
 
-  .about {
-    @apply my-20 mx-32;
-  }
-
-  .school {
-    @apply my-20 mx-32;
-  }
-
-  .projects {
-    @apply my-20 mx-20;
-  }
-
-  .p_image {
-    @apply w-full h-auto rounded-full border-4 border-white/30 transition-all duration-300 shadow-[0_10px_20px_rgba(0,0,0,0.2)] max-w-[300px] max-h-[300px] m-5 hover:scale-105 hover:border-[#8da9c4];
-  }
-
   .images {
     @apply cursor-pointer w-full h-auto rounded-2xl border-4 border-white/30 transition-all duration-300 shadow-[0_10px_20px_rgba(0,0,0,0.2)] max-w-[300px] max-h-[300px] m-5 hover:scale-105 hover:border-[#8da9c4];
   }
@@ -47,4 +31,12 @@ body {
   .link {
     @apply flex items-center no-underline text-[#060b11] px-4 py-2 rounded-full transition-all duration-300 ease-in-out my-1 hover:bg-[#1340741a] hover:translate-x-1;
   }
+}
+
+@theme {
+  --breakpoint-xs: 30rem;
+  --breakpoint-sm: 40rem
+  --breakpoint-md: 50rem;
+  --breakpoint-2xl: 100rem;
+  --breakpoint-3xl: 120rem;
 }

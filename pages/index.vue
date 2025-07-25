@@ -1,10 +1,10 @@
 <template>
-  <div class="container p-4 card flex w-auto about">
+  <div class="flex">
     <div class="content-center p-5">
       <NuxtImg
         src="assets/images/20250621_164528(1).jpg"
         alt="Io"
-        class="p_image"
+        class="w-full h-auto rounded-full border-4 border-white/30 transition-all duration-300 shadow-[0_10px_20px_rgba(0,0,0,0.2)] max-w-[300px] max-h-[300px] m-5 hover:scale-105 hover:border-[#8da9c4]"
       />
     </div>
     <div class="content-center p-5">
