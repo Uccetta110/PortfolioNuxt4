@@ -2,7 +2,7 @@
   <div class="container p-4 card flex w-auto about">
     <div class="content-center p-5">
       <NuxtImg
-        src="assets/images/Agliati_Federico-1.png"
+        src="assets/images/20250621_164528(1).jpg"
         alt="Io"
         class="p_image"
       />
